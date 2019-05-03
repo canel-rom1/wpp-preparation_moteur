@@ -1,0 +1,6 @@
+bordel
+db-storage
+site-storage
+*.sql
+*.swp
+*.tar.gz
